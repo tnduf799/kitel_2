@@ -1,5 +1,5 @@
 #include<Stdio.h>
 main(void)
 {
-    printf("안뇽?")
+    printf("안뇽!@?")
 }
